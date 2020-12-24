@@ -2,7 +2,7 @@
 
 # ShaderGraphStochastic
 
-Stochastic Texure Shader Graph Node
+Stochastic Texture Shader Graph Node
 
 ## How Use
 
